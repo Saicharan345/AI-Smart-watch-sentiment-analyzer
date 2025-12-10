@@ -4,11 +4,11 @@ AI SMART WATCH SENTIMENT ANALYZER
 This project is an AI-powered sentiment analysis system designed for smartwatch interaction data.
 It analyzes user text input and classifies it into different sentiment categories such as:
 
-😊 Positive
+* Positive
 
-😐 Neutral
+* Neutral
 
-😔 Negative
+* Negative
 
 The application uses Flask for the backend, TextBlob and machine learning models for sentiment analysis, and provides a simple web interface for user interaction.
 
